@@ -1,2 +1,2 @@
 # ThreadedBST
-Threaded Binary Search Tree me and my partner William Susanto made from scratch, feel free use, there are comments are found throughout the document 
+Threaded Binary Search Tree my partner William Susanto and I made from scratch, feel free use, the code is commented throughout. 
